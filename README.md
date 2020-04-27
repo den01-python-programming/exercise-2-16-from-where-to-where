@@ -20,7 +20,7 @@ Where to? **5**
 5
 ```
 
-**hint** the number read from the user is now the upper limit of the condition. Remember that in Python `a <= b` means _a is smaller or equal to b_.
+**Hint:** The number read from the user is now the upper limit of the condition. Remember that in Python `a <= b` means _a is smaller or equal to b_.
 
 ## Part 2: Where from
 
@@ -42,4 +42,4 @@ Where to? **12**
 Where from? **16**
 ```
 
-**NB** remember that the lower and upper limits can be negative!
+**NB:** Remember that the lower and upper limits can be negative!
