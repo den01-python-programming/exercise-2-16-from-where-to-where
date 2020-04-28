@@ -1,6 +1,6 @@
 # Exercise 2.16 From where to where
 
-## Part 1: Where to
+## Where to
 
 Write a program which prints the integers from 1 to a number given by the user.
 
@@ -22,7 +22,7 @@ Where to? **5**
 
 **Hint:** The number read from the user is now the upper limit of the condition. Remember that in Python `a <= b` means _a is smaller or equal to b_.
 
-## Part 2: Where from
+## Where from
 
 Ask the user for the starting point as well.
 
